@@ -1,1 +1,1 @@
-Files are being updated. Check back on 1 October 2024
+This is supplementary files for MSc project at TU Delft. The files include scripts for generating visual access data using isovists in Grasshopper, and 3 Jupyter notebook using Python to process the data, analyze the data, and the machine learning model notebook. 
